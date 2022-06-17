@@ -19,4 +19,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Linkedin - [Aymen Nasssi](linkedin.com/in/aymen-nassi)
+- Linkedin - [Aymen Nassi](https://www.linkedin.com/in/aymen-nassi/)
